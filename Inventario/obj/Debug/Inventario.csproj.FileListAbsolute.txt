@@ -1,0 +1,14 @@
+C:\Users\Kevin\source\repos\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Kevin\source\repos\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Kevin\source\repos\Inventario\Inventario\bin\Debug\Inventario.pdb
+C:\Users\Kevin\source\repos\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Kevin\source\repos\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Kevin\Desktop\Tarea-arreglos-main\Tarea-arreglos-main\Inventario\Inventario\obj\Debug\Inventario.csproj.AssemblyReference.cache
+C:\Users\Kevin\Desktop\Tarea-arreglos-main\Tarea-arreglos-main\Inventario\Inventario\obj\Debug\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Tarea-arreglos-main\Tarea-arreglos-main\Inventario\Inventario\obj\Debug\Inventario.exe
+C:\Users\Kevin\Desktop\Tarea-arreglos-main\Tarea-arreglos-main\Inventario\Inventario\obj\Debug\Inventario.pdb
+C:\Users\Kevin\Desktop\Tarea-arreglos-main\Tarea-arreglos-main\Inventario\Inventario\bin\Debug\Inventario.exe.config
+C:\Users\Kevin\Desktop\Tarea-arreglos-main\Tarea-arreglos-main\Inventario\Inventario\bin\Debug\Inventario.exe
+C:\Users\Kevin\Desktop\Tarea-arreglos-main\Tarea-arreglos-main\Inventario\Inventario\bin\Debug\Inventario.pdb

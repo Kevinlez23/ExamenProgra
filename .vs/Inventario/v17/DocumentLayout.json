@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\Desktop\\ExamenProgra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3389DD0-872A-4013-91E0-03BC9984C644}|Inventario\\Inventario.csproj|C:\\Users\\Kevin\\Desktop\\ExamenProgra\\inventario\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3389DD0-872A-4013-91E0-03BC9984C644}|Inventario\\Inventario.csproj|solutionrelative:inventario\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3389DD0-872A-4013-91E0-03BC9984C644}|Inventario\\Inventario.csproj|c:\\users\\kevin\\desktop\\examenprogra\\inventario\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3389DD0-872A-4013-91E0-03BC9984C644}|Inventario\\Inventario.csproj|solutionrelative:inventario\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3389DD0-872A-4013-91E0-03BC9984C644}|Inventario\\Inventario.csproj|C:\\Users\\Kevin\\Desktop\\ExamenProgra\\inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3389DD0-872A-4013-91E0-03BC9984C644}|Inventario\\Inventario.csproj|solutionrelative:inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\ExamenProgra\\Inventario\\Empleados.cs",
+              "RelativeDocumentMoniker": "Inventario\\Empleados.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\ExamenProgra\\Inventario\\Empleados.cs",
+              "RelativeToolTip": "Inventario\\Empleados.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwJIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:39:41.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\ExamenProgra\\Inventario\\menu.cs",
+              "RelativeDocumentMoniker": "Inventario\\menu.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\ExamenProgra\\Inventario\\menu.cs",
+              "RelativeToolTip": "Inventario\\menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:35:47.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\ExamenProgra\\Inventario\\Program.cs",
+              "RelativeDocumentMoniker": "Inventario\\Program.cs",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\ExamenProgra\\Inventario\\Program.cs",
+              "RelativeToolTip": "Inventario\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T02:32:40.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
